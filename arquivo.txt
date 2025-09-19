@@ -1,2 +1,3 @@
 meu primeiro arquivo
+Terceiro commit com conflito
 segundo commit
